@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "cheerio": "latest",
-    "generic-pool": "latest",
+    "generic-pool": "2.4.3",
     "iconv": "latest",
     "iconv-lite": "latest",
     "jschardet": "latest",
